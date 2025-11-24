@@ -241,7 +241,7 @@ GROUP BY shift;
 
 # ⭐ Author
 
-**Senor 7**
+**Yubraj Shrestha**
 Aspiring Data Analyst | SQL • Python • Power BI | Continuous Learner
 
 ---
